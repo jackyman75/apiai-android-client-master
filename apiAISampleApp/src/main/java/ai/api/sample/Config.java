@@ -44,7 +44,6 @@ public abstract class Config {
     public static final String[] events = new String[]{
             "hello_event",
             "goodbye_event",
-            "how_are_you_event",
             "WELCOME",
             "JAC"
     };
